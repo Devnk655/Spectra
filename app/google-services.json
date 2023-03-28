@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645753157178",
+    "project_id": "spectra-d3c1b",
+    "storage_bucket": "spectra-d3c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645753157178:android:9c758a9395d66f4051e703",
+        "android_client_info": {
+          "package_name": "com.example.spectra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645753157178-5t5bu3u4nm9s57vnk7bj4vlb3vh7n5fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5o7uqjcx4fey_ZZ7L-r7Mb1lDH8rv0Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645753157178-5t5bu3u4nm9s57vnk7bj4vlb3vh7n5fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
